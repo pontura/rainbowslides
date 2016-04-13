@@ -1,0 +1,103 @@
+﻿
+At <b>Tipitap</b>, we believe it is important for you to understand what types of information we are collecting and what may happen to that information when using our apps, website and related online resources (collectively, the “Services”). 
+This Privacy Policy covers the use of information collected by Tipitap and is designed to explain our policies and procedures with respect to collection, use and disclosure of information about you in connection with the Services. 
+
+<b>SUMMARY in plain English for THIS app:</b> 
+
+This app does not collect <b>ANY</b> personal information. 
+
+We do not track any uses of the app.
+
+But even if we did we never sell information to advertisers or third parties.
+
+<b>GENERAL PRIVACY POLICY FOR ALL TIPITAP PRODUCTS</b>
+
+IF YOU ARE A PARENT OR LEGAL GUARDIAN AND YOU PROVIDE YOUR CONSENT TO YOUR CHILDREN'S USE OF THE SERVICES, YOU CONSENT AND AGREE TO THE COLLECTION, USE AND DISCLOSURE OF PERSONAL INFORMATION ABOUT YOU AND YOUR CHILDREN AS DESCRIBED IN THIS PRIVACY POLICY.
+
+THIS DESCRIBES THE MOST EXTREME DATA COLLECTION WE MIGHT ENGAGE IN THROUGHOUT OUR DIGITAL PRODUCTS INCLUDING OUR WEBSITE. 
+
+<b>WHAT YOU WILL FIND IN THIS PRIVACY POLICY</b>
+
+1. The Information We Collect
+
+2. How We Collect, Use, Disclose, and Store the Information We Collect
+
+3. Sharing Information with Third Parties
+
+4. Security
+
+5. Access to Information; Objection to Information Collection and Retention
+
+6. Contact Us
+
+7. Effective Date; Changes to Privacy Policy
+
+<b>SPECIAL NOTE TO PARENTS</b>
+
+<b>Tipitap is 100% committed to safeguarding your family’s privacy.</b> The rapid pace of technological innovation requires constant revisions to our policies and practices in order to make mobile technology as safe as possible for families. That’s why we’d like to ask you, the parent, to be our partner in protecting your child’s privacy. Your guidance and involvement are essential to help steer your family and children to age-appropriate applications and content and ensure that they have a safe and rewarding experience with mobile technology. If you ever have any questions or you notice something that needs our attention, please contact us immediately by emailing support@tipitap.com. 
+
+The Tipitap website is intended as a general audience website that enables visitors to learn more about Tipitap and mobile technology, apps, games and other content for young children and their families. Our downloadable mobile applications (the “Products”), are designed as tools for parents and legal guardians to provide their children with educational environments and activities for learning on the parent/guardian’s mobile device, a school-owned device or the child’s own device.  
+
+We make sure that our Privacy Policy and our information practices adhere to the United States Children's Online Privacy Protection Act (COPPA).  <b>We will not knowingly collect personal information from children under 13 years of age without parental consent and we will never sell the data we collect to third parties.</b> If a parent does not provide consent, we will delete the personal information provided during the download and installation process within a reasonable time period. Tipitap does not condition a child's participation in or access to any online activity on the child providing more personal information than is reasonably necessary for that activity.  
+
+We sometimes request a parent’s valid email address for password retrieval purposes, to notify the parent about our privacy practices, to send the parent notifications about the user’s account or performance, and for such other purposes as described in this Privacy Policy. 
+
+If at any time you do not want you or your child to be bound by these terms, you must deactivate your account and uninstall the Products from your mobile devices. You can email your request to cancel or deactivate your account to support@tipitap.com.
+
+<b>1. The Information We Collect</b>
+
+“Personal Information” is individually identifiable information about an individual collected online. If we combine personal information with non-personal information, we treat the combined information as personal information to the extent the combined information remains individually identifiable. 
+
+Tipitap may have access during the purchase process in certain markets to the following types of personal information from users in connection with the download, installation and use of the Products:
+
+<b>.</b>Email address associated with your mobile device 
+
+<b>.</b>User account name and password
+
+<b>.</b>Device ID associated with your mobile device
+
+<b>.</b>Internet Protocol (IP) address 
+
+<b>.</b>Geolocation information sufficient to identify the name of a city or town.
+
+Tipitap may request the email address associated with your mobile device or app marketplace account. We may use this email address and/or another email address provided by you following the initial download and installation to send a message that is used to activate your account, to notify you about our privacy practices, and to send you communications about Products or accounts, including periodic reports of the Products’ usage, and for such other purposes as described in this Privacy Policy. 
+
+If you do not wish to authorize the collection of the email address associated with your mobile device, then you should not download the Products where an email is required. Similarly, if you wish to prevent further collection of personal information associated with using the Product on your mobile device, then you may simply uninstall the Products from your mobile devices. 
+
+With your permission under this Privacy Policy, we also may use your email address to send informational or promotional messages regarding Tipitap-related products and services. You may revoke permission to receive these promotional messages at any time by clicking on unsubscribe links in those emails or by contacting customer support at support@tipitap.com.
+
+We may also collect your email address, name and other personal information when a user submits a form through the "Contact Us" portion of the Products or through our website so that we may respond to the inquiry. We collect this personal information for the purpose of responding directly on a one-time basis to a specific inquiry.
+
+The device ID associated with your mobile device is collected in order to provide targeted customer support, track usage, connect users and deliver recommendations, push notifications and reports to you based on your Products’ usage. 
+
+"Non-Personal Information" is non-individually identifying information, such as user’s age range or the type of operating system or web browser that you use. In addition to the personal information that we collect in connection with the Products or that users actively provide to us by other methods such as completing our website registration process, we also collect a variety of non-personal information about our users and how they interact with the Services. 
+
+The types of non-personal information we collect include, where applicable, your mobile carrier name, mobile device manufacturer and model, as well as certain standard information sent by your browser or mobile device, such as your browser/device type and capabilities and language, your operating system, the referring link from which you linked to our servers, geolocation data based on your IP address sufficient to identify the name of a city or town, and the date and time you access our servers. We also collect non-personal information related to use of our Services (such as features used, frequency of use, items clicked, pages viewed, and other actions taken) to help us determine and analyze how users interact with our Services.
+
+<b>2. How We Collect, Use, Disclose, and Store the Information We Collect</b>
+
+We use information we collect about our users in order to improve the Services and develop new features and products. In addition, as described above, we utilize the information we collect about our users to learn more about how they interact with our Services to customize the Services to their interests and enhance the user experience. In doing so, we try to recognize our users through various methods, including recognizing a user’s device ID or having users log in with their user name and password. Once we recognize a particular user, the user experience may be further customized for that particular user.  
+
+We may use software technologies such as unique identifiers or "cookies" to collect and store information related to user interactions with the Services. Cookies are small data files that are placed onto your device by our servers. We may use temporary session cookies, which are terminated when the user closes the current session, to store certain personal information provided by the user for purposes of administering that session and facilitating transactions requested during that session. We also may use persistent cookies, which remain saved on the user’s device after the current session is closed, to store user information to facilitate future sessions. Most browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies or to notify you when a cookie is being placed on your device. Each browser is different, but generally users can remove cookies by following directions provided in the browser’s “help” file. Please note that if you reject cookies or disable cookies, some features of the Services may not function properly. 
+
+In addition to the purposes described above, we may use personal information such as user names, passwords and email addresses to enable the review of personal information that has been collected by Tipitap on their account and to provide notifications regarding Tipitap Services, such as any future amendments to this Privacy Policy. 
+
+We also use non-personal information for internal purposes such as testing and improving user experience, e.g., by removing features that are rarely used, designing new products and services, improving our existing products and services generally, testing and enhancing security, and for other purposes described in this Privacy Policy. We also compile demographic data and usage-related information for a variety of uses in an aggregated or anonymized manner intended to remove or obscure any personal information that can identify any individual user.
+
+We may disclose information where we are required to do so by law, for example, in response to a court order or a subpoena, or where we disclose information to service providers or other group companies who provide support for the operations of our website and application and who do not use or disclose the information for any other purpose. To the extent permitted by applicable law, we also may disclose personal information in response to a law enforcement agency's or other public agency's (including schools or children services) request or if we feel that such disclosure may prevent the instigation of a crime, facilitate an investigation related to public safety, protect the safety of a child, protect the security or integrity of our website, or enable us to take precautions against liability.
+
+If we sell all or part of our business or make a sale or transfer of our assets or are otherwise involved in a merger or business transfer, we may transfer personal information to a third party as part of that transaction, to the extent permitted by applicable law.
+
+Finally, we may transfer, store or process your personal information outside of the jurisdiction in which you are located. Tipitap is operating from the United States of America and personal information collected by Tipitap may be stored and processed in, or transferred to, the United States of America or any other country in which we maintain facilities. Personal information collected by Tipitap may be transferred among our various divisions and affiliated companies around the world, which may involve transfer from countries within the European Economic Area to countries outside the European Economic Area. By choosing to access our website or download the Products, you consent to any such transfer, storage or processing of personal information outside of your country.
+
+<b>3. Sharing Information with Third Parties</b>
+
+Except as explicitly stated in this Privacy Policy, <b>we do not share your information</b>, either personally identifiable or anonymized, with third parties unless required to do so by law. This Privacy Policy applies solely to the information collected by us online through the Services and does not apply to any other websites, applications or services. The Services may feature various icons, shortcuts or links to launch or access other websites, applications and services provided by third parties that we do not own or control.  Although the Product is designed to restrict the ability of third parties to collect data from users when they launch third party apps from within the Product, we cannot be responsible for the practices or privacy policies of those third parties or any collection and use of data by third parties from users when they launch third party apps from within the Product.  Similarly, we cannot be responsible for the practices or privacy policies of any other websites, applications and services linked to our website. We encourage you to be aware when you launch third party applications or leave our website and to read the privacy policies of each and every third party that may be providing websites, applications or information linked to, accessed or launched from the Services. Our Services may include various features and functionality intended to block the display of ads or other similar content, but we cannot be responsible for the practices or privacy policies of any other websites, applications or services that may include advertising.  Despite the existence of features intended to block ads or other content, you acknowledge that ads or other similar content may still be seen and accessed from the Services.   
+
+From time to time, we may decide that it is more efficient to use third parties to perform specific functions related to the Services. If we use a third party to perform specific functions (such as payment processing or sending communications to our users on our behalf), then information (such as contact information) may be shared with that third party to the extent necessary for that third party to perform that function. We authorize these third party service providers to use personal information only for the purpose of providing the specific services requested by us. Third party service providers covered by this paragraph do not include third party sites, applications or services that may be linked to, accessed or launched from the Services, which are governed by the immediately preceding paragraph above. 
+
+Our Services may include various features and functionality that enable users to post, access and share information, such as blog comments and message boards, where users can post information and communicate with one another across our website, other social networks and other websites and online services. Please be aware that these posts and communications are being made publicly available online and you do so at your own risk.
+
+<b>4. Security</b>
+
+The security of your personal information is important to us. We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
