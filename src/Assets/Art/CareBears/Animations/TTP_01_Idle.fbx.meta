@@ -1,0 +1,426 @@
+fileFormatVersion: 2
+guid: 55a91d3d76b438f478334118bd323860
+timeCreated: 1457666192
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Belly
+    100004: Cheek.L
+    100006: Cheek.L_end
+    100008: Cheek.R
+    100010: Cheek.R_end
+    100012: CheerBear_Mesh Hi Geometry_Group CheerBear Body_Deform_Geo Care
+    100014: CheerBear_Mesh Hi Geometry_Group CheerBear LT_Eyeball_Deform_Ge
+    100016: Chin
+    100018: Chin_end
+    100020: Ear.L
+    100022: Ear.L_end
+    100024: Ear.R
+    100026: Ear.R_end
+    100028: Eye.L
+    100030: Eye.L_end
+    100032: Eye.R
+    100034: Eye.R_end
+    100036: EyeBrown.L
+    100038: EyeBrown.L_end
+    100040: EyeBrown.R
+    100042: EyeBrown.R_end
+    100044: Foot.L
+    100046: Foot.R
+    100048: Hand.L
+    100050: Hand.R
+    100052: HEAD
+    100054: IK.L
+    100056: IK.L_end
+    100058: IK.R
+    100060: IK.R_end
+    100062: Index.L
+    100064: Index.L_end
+    100066: Index.R
+    100068: Index.R_end
+    100070: LowerArm.L
+    100072: LowerArm.R
+    100074: LowerLeg.L
+    100076: LowerLeg.R
+    100078: LowEyeLid.L
+    100080: LowEyeLid.L_end
+    100082: LowEyeLid.R
+    100084: LowEyeLid.R_end
+    100086: Middle.L
+    100088: Middle.L_end
+    100090: Middle.R
+    100092: Middle.R_end
+    100094: Mouth.L
+    100096: Mouth.L_end
+    100098: Mouth.R
+    100100: Mouth.R_end
+    100102: MouthDOWN
+    100104: MouthDOWN_end
+    100106: MouthUP
+    100108: MouthUP_end
+    100110: Pelvis
+    100112: Pinky.L
+    100114: Pinky.L_end
+    100116: Pinky.R
+    100118: Pinky.R_end
+    100120: //RootNode
+    100122: ROOT
+    100124: Thumb.L
+    100126: Thumb.L_end
+    100128: Thumb.R
+    100130: Thumb.R_end
+    100132: Toes.L
+    100134: Toes.L.001
+    100136: Toes.L.001_end
+    100138: Toes.L_end
+    100140: TORSO
+    100142: UpEyeLid.L
+    100144: UpEyeLid.L_end
+    100146: UpEyeLid.R
+    100148: UpEyeLid.R_end
+    100150: UpperArm.L
+    100152: UpperArm.R
+    100154: UpperLeg.L
+    100156: UpperLeg.R
+    400000: Armature
+    400002: Belly
+    400004: Cheek.L
+    400006: Cheek.L_end
+    400008: Cheek.R
+    400010: Cheek.R_end
+    400012: CheerBear_Mesh Hi Geometry_Group CheerBear Body_Deform_Geo Care
+    400014: CheerBear_Mesh Hi Geometry_Group CheerBear LT_Eyeball_Deform_Ge
+    400016: Chin
+    400018: Chin_end
+    400020: Ear.L
+    400022: Ear.L_end
+    400024: Ear.R
+    400026: Ear.R_end
+    400028: Eye.L
+    400030: Eye.L_end
+    400032: Eye.R
+    400034: Eye.R_end
+    400036: EyeBrown.L
+    400038: EyeBrown.L_end
+    400040: EyeBrown.R
+    400042: EyeBrown.R_end
+    400044: Foot.L
+    400046: Foot.R
+    400048: Hand.L
+    400050: Hand.R
+    400052: HEAD
+    400054: IK.L
+    400056: IK.L_end
+    400058: IK.R
+    400060: IK.R_end
+    400062: Index.L
+    400064: Index.L_end
+    400066: Index.R
+    400068: Index.R_end
+    400070: LowerArm.L
+    400072: LowerArm.R
+    400074: LowerLeg.L
+    400076: LowerLeg.R
+    400078: LowEyeLid.L
+    400080: LowEyeLid.L_end
+    400082: LowEyeLid.R
+    400084: LowEyeLid.R_end
+    400086: Middle.L
+    400088: Middle.L_end
+    400090: Middle.R
+    400092: Middle.R_end
+    400094: Mouth.L
+    400096: Mouth.L_end
+    400098: Mouth.R
+    400100: Mouth.R_end
+    400102: MouthDOWN
+    400104: MouthDOWN_end
+    400106: MouthUP
+    400108: MouthUP_end
+    400110: Pelvis
+    400112: Pinky.L
+    400114: Pinky.L_end
+    400116: Pinky.R
+    400118: Pinky.R_end
+    400120: //RootNode
+    400122: ROOT
+    400124: Thumb.L
+    400126: Thumb.L_end
+    400128: Thumb.R
+    400130: Thumb.R_end
+    400132: Toes.L
+    400134: Toes.L.001
+    400136: Toes.L.001_end
+    400138: Toes.L_end
+    400140: TORSO
+    400142: UpEyeLid.L
+    400144: UpEyeLid.L_end
+    400146: UpEyeLid.R
+    400148: UpEyeLid.R_end
+    400150: UpperArm.L
+    400152: UpperArm.R
+    400154: UpperLeg.L
+    400156: UpperLeg.R
+    4300000: CheerBear_Mesh Hi Geometry_Group CheerBear Body_Deform_Geo Care
+    4300002: CheerBear_Mesh Hi Geometry_Group CheerBear LT_Eyeball_Deform_Ge
+    7400000: Armature|ClimbLader
+    7400002: idle
+    7400004: Armature|IdleAttention
+    7400006: Armature|JumpForward
+    7400008: Armature|Push
+    7400010: Armature|PushFall
+    7400012: Armature|Run
+    7400014: Armature|SlideDown
+    9500000: //RootNode
+    13700000: CheerBear_Mesh Hi Geometry_Group CheerBear Body_Deform_Geo Care
+    13700002: CheerBear_Mesh Hi Geometry_Group CheerBear LT_Eyeball_Deform_Ge
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Armature|Idle
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/ROOT
+        weight: 1
+      - path: Armature/ROOT/IK.L
+        weight: 1
+      - path: Armature/ROOT/IK.L/IK.L_end
+        weight: 1
+      - path: Armature/ROOT/IK.R
+        weight: 1
+      - path: Armature/ROOT/IK.R/IK.R_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/Cheek.L
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/Cheek.L/Cheek.L_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/Cheek.R
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/Cheek.R/Cheek.R_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/Chin
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/Chin/Chin_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/Ear.L
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/Ear.L/Ear.L_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/Ear.R
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/Ear.R/Ear.R_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/Eye.L
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/Eye.L/Eye.L_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/Eye.R
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/Eye.R/Eye.R_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/EyeBrown.L
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/EyeBrown.L/EyeBrown.L_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/EyeBrown.R
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/EyeBrown.R/EyeBrown.R_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/LowEyeLid.L
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/LowEyeLid.L/LowEyeLid.L_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/LowEyeLid.R
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/LowEyeLid.R/LowEyeLid.R_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/Mouth.L
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/Mouth.L/Mouth.L_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/Mouth.R
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/Mouth.R/Mouth.R_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/MouthDOWN
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/MouthDOWN/MouthDOWN_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/MouthUP
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/MouthUP/MouthUP_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/UpEyeLid.L
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/UpEyeLid.L/UpEyeLid.L_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/UpEyeLid.R
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/HEAD/UpEyeLid.R/UpEyeLid.R_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/UpperArm.L
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/UpperArm.L/LowerArm.L/Hand.L/Index.L
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/UpperArm.L/LowerArm.L/Hand.L/Index.L/Index.L_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/UpperArm.L/LowerArm.L/Hand.L/Middle.L
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/UpperArm.L/LowerArm.L/Hand.L/Middle.L/Middle.L_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/UpperArm.L/LowerArm.L/Hand.L/Pinky.L
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/UpperArm.L/LowerArm.L/Hand.L/Pinky.L/Pinky.L_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/UpperArm.L/LowerArm.L/Hand.L/Thumb.L
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/UpperArm.L/LowerArm.L/Hand.L/Thumb.L/Thumb.L_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/UpperArm.R
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/UpperArm.R/LowerArm.R/Hand.R/Index.R
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/UpperArm.R/LowerArm.R/Hand.R/Index.R/Index.R_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/UpperArm.R/LowerArm.R/Hand.R/Middle.R
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/UpperArm.R/LowerArm.R/Hand.R/Middle.R/Middle.R_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/UpperArm.R/LowerArm.R/Hand.R/Pinky.R
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/UpperArm.R/LowerArm.R/Hand.R/Pinky.R/Pinky.R_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/UpperArm.R/LowerArm.R/Hand.R/Thumb.R
+        weight: 1
+      - path: Armature/ROOT/Pelvis/Belly/TORSO/UpperArm.R/LowerArm.R/Hand.R/Thumb.R/Thumb.R_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/UpperLeg.L
+        weight: 1
+      - path: Armature/ROOT/Pelvis/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/ROOT/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/ROOT/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toes.L
+        weight: 1
+      - path: Armature/ROOT/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Toes.L/Toes.L_end
+        weight: 1
+      - path: Armature/ROOT/Pelvis/UpperLeg.R
+        weight: 1
+      - path: Armature/ROOT/Pelvis/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/ROOT/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/ROOT/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toes.L.001
+        weight: 1
+      - path: Armature/ROOT/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Toes.L.001/Toes.L.001_end
+        weight: 1
+      - path: CheerBear_Mesh Hi Geometry_Group CheerBear Body_Deform_Geo Care
+        weight: 1
+      - path: CheerBear_Mesh Hi Geometry_Group CheerBear LT_Eyeball_Deform_Ge
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: bddb89b3465cf8f4994328e04c73ae2d
+timeCreated: 1459362911
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - character: {instanceID: 0}
+  - model: {fileID: 100130, guid: 352db09c26d97494fa812561bf9ffd63, type: 3}
+  - replaceMaterial: {instanceID: 0}
+  - coloredButton: {instanceID: 0}
+  - background: {instanceID: 0}
+  - bar: {instanceID: 0}
+  - startPlace: {instanceID: 0}
+  - doubleCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
