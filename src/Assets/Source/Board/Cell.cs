@@ -75,7 +75,12 @@ public class Cell : MonoBehaviour
 			return 1f;
 		}
 	}
-	
+
+    void Start()
+    {
+        if (numberRoot != null)
+        numberRoot.GetComponent<MeshRenderer>().material = Resources.Load("NewFontShader") as Material;
+    }
 	public static Cell FindByNumber(int number)
 	{
 		foreach (Cell c in all)
