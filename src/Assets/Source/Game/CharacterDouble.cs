@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 // The character double is the secondary instantiated character that is used as avatar on the corner of the screen.
 // This class handles animations that can be triggered on this special duplicated character.
@@ -12,8 +13,9 @@ public class CharacterDouble : MonoBehaviour
 	private CharacterEvents charEvents;
 	private CharacterAnimNames animNames;
 	private Animation anim;
-	private Renderer renderers;
+	public  List<Renderer> renderers;
 	private Transform _t;
+    public TextMesh textMesh;
 	
 	void Awake()
 	{
@@ -29,11 +31,11 @@ public class CharacterDouble : MonoBehaviour
 		anim = model.GetComponentInChildren<Animation>();
 		charEvents = model.GetComponentInChildren<CharacterEvents>();
 		animNames = model.GetComponentInChildren<CharacterAnimNames>();
-        renderers = model.GetComponentInChildren<SkinnedMeshRenderer>();
-        //foreach(SkinnedMeshRenderer rend in model.GetComponentsInChildren<SkinnedMeshRenderer>())
-        //{
-        //    renderers = rend; break;
-        //}
+        //renderers = model.GetComponentInChildren<SkinnedMeshRenderer>();
+        foreach (SkinnedMeshRenderer rend in model.GetComponentsInChildren<SkinnedMeshRenderer>())
+        {
+            renderers.Add(rend);
+        }
 		FloorShadow fs = model.GetComponentInChildren<FloorShadow>();
 		if (fs)
 		{
@@ -93,7 +95,10 @@ public class CharacterDouble : MonoBehaviour
 	void Start()
 	{
 		Play(animNames.IDLE_NAME);
-		UpdateModelMaterial();
+		    UpdateModelMaterial();
+
+            if (textMesh != null && player != null)
+                textMesh.text = player.defaultName;
 	}
 	
 	private bool UsingSkate
@@ -156,10 +161,28 @@ public class CharacterDouble : MonoBehaviour
 	public void UpdateModelMaterial()
 	{
 		Material usedMaterial = StaticAssets.instance.emptyCharacter;
-		if (player.isPlaying)
-			usedMaterial = player.replaceMaterial;
-		//foreach (Renderer r in renderers)
-            renderers.sharedMaterial = usedMaterial;
+        Material eyesMaterial = StaticAssets.instance.emptyCharacter;
+
+        if (player.isPlaying)
+        {
+            usedMaterial = player.replaceMaterial;
+            eyesMaterial = player.eyesMaterial;
+        }
+        int id = 0;
+        foreach (Renderer r in renderers)
+        {
+            if (id == 0)
+            {
+                print("0: usedMaterial" + usedMaterial);
+                r.sharedMaterial = usedMaterial;
+            }
+            else if (id == 1)
+            {
+                print("0: eyesMaterial" + eyesMaterial);
+                r.sharedMaterial = eyesMaterial;
+            }
+            id++;
+        }
 	}
 	
 	IEnumerator SelectedHumanRoutine()

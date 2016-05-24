@@ -28,6 +28,8 @@ public class Player : MonoBehaviour
 	
 	// The material used to replace the model default material;
 	public Material replaceMaterial;
+    // The material used to replace the model default material;
+    public Material eyesMaterial;
 
 	// The texture used on the move button. It should have the player color.
 	public Texture2D coloredButton;
