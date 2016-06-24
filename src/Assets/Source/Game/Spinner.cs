@@ -500,6 +500,7 @@ public class Spinner : MonoBehaviour
 		spins = Mathf.Clamp(spins, -maxSpins, maxSpins);
 		usedTablePoints = Random.Range(0f, table.Total);
 		usedTableResult = table.GetResultForPoints(usedTablePoints);
+
 		int targetSlot = GetSlotForResult(usedTableResult);
 		arrowCurrentAngle = Mathf.Repeat(arrowCurrentAngle, 360);
 		float randomSpin = 360 * spins;

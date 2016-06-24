@@ -16,6 +16,7 @@ public class CharacterDouble : MonoBehaviour
 	public  List<Renderer> renderers;
 	private Transform _t;
     public TextMesh textMesh;
+    public GameObject skate;
 	
 	void Awake()
 	{
@@ -59,6 +60,9 @@ public class CharacterDouble : MonoBehaviour
 	{
 		if (animNames)
 			CrossFade(animNames.IDLE_NAME);
+
+        print("animNames " + animNames);
+
 	}
 	
 	[ContextMenu("Play Victory")]
@@ -74,8 +78,8 @@ public class CharacterDouble : MonoBehaviour
 		{
 			Play(animNames.IDLE_NAME);
 			// instant move
-			_t.position = Vector3.zero;
-			_t.rotation = Quaternion.identity;
+            modelRoot.position = Vector3.zero;
+            modelRoot.rotation = Quaternion.identity;
 		}
 		UpdateModelMaterial();
 	}
@@ -114,6 +118,7 @@ public class CharacterDouble : MonoBehaviour
 		if (!anim.isPlaying)
 			CrossFade(animNames.IDLE_NAME);
 		Vector3 targetPos = Vector3.zero;
+        Vector3 ModeltargetPos = Vector3.zero;
 		Quaternion targetRotation = Quaternion.identity;
 		if (GameGUI.AtIngame)
 		{
@@ -121,21 +126,25 @@ public class CharacterDouble : MonoBehaviour
 			{
 				// wait until the animation finishes
 				targetRotation = Quaternion.Euler(0, charEvents.angleLookHelloAvatar, 0);
+                skate.SetActive(false);
 			}
 			else if (UsingSkate)
 			{
-				targetPos = new Vector3(0, StaticAssets.instance.skateHeight, 0);
+                ModeltargetPos = new Vector3(0, StaticAssets.instance.skateHeight, 0);
 				targetRotation = Quaternion.Euler(0, 270, 0);
 				CrossFade(animNames.SKATEBOARD_NAME);
+                skate.SetActive(true);
 			}
 			else
 			{
+                skate.SetActive(false);
 				CrossFade(animNames.IDLE_NAME);
 			}
 		}
 		float dt = Time.deltaTime;
-		_t.position = Vector3.Lerp(_t.position, targetPos, dt * 10f);
-		_t.rotation = Quaternion.Lerp(_t.rotation, targetRotation, dt * 10f);
+        _t.position = Vector3.Lerp(_t.position, targetPos, dt * 10f);
+        modelRoot.position = Vector3.Lerp(modelRoot.position, ModeltargetPos, dt * 10f);
+        modelRoot.rotation = Quaternion.Lerp(modelRoot.rotation, targetRotation, dt * 10f);
 	}
 	
 	public void OnPlayerSwitch()
@@ -173,12 +182,10 @@ public class CharacterDouble : MonoBehaviour
         {
             if (id == 0)
             {
-                print("0: usedMaterial" + usedMaterial);
                 r.sharedMaterial = usedMaterial;
             }
             else if (id == 1)
-            {
-                print("0: eyesMaterial" + eyesMaterial);
+            {   
                 r.sharedMaterial = eyesMaterial;
             }
             id++;
